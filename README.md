@@ -1,7 +1,7 @@
 # 🌱 GreenLoop - Sustainable Products E-Commerce Website
 
 **GreenLoop** is a full-stack e-commerce platform for selling sustainable and eco-friendly products.  
-It includes product browsing by categories, a shopping cart with quantity management, a checkout page, and a blog with articles on sustainable living.
+It includes product browsing by categories, a shopping cart with quantity management, a checkout page, and a blog with articles on sustainable living. **Visite GreenLoop** :https://aakash5275.github.io/GreenLoop/
 
 ---
 
@@ -117,3 +117,4 @@ Feel free to fork the repository and submit a Pull Request.
 ---
 
 **💚 Live sustainably, shop responsibly – GreenLoop**
+
